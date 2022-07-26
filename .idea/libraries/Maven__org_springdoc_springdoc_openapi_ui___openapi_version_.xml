@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springdoc:springdoc-openapi-ui:$(openapi.version)">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-ui/$(openapi.version)/springdoc-openapi-ui-$(openapi.version).jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-ui/$(openapi.version)/springdoc-openapi-ui-$(openapi.version)-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springdoc/springdoc-openapi-ui/$(openapi.version)/springdoc-openapi-ui-$(openapi.version)-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
